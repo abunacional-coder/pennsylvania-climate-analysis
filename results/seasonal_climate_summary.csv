@@ -1,0 +1,17 @@
+site,season,mean_temperature_c,mean_monthly_precipitation_mm
+Harrisburg (Susquehanna),Fall,12.652333333333333,88.281
+Harrisburg (Susquehanna),Spring,9.953333333333335,92.62466666666666
+Harrisburg (Susquehanna),Summer,23.034666666666666,116.59533333333334
+Harrisburg (Susquehanna),Winter,-0.5983333333333333,80.66733333333333
+Pittsburgh (West),Fall,12.424666666666667,73.74666666666667
+Pittsburgh (West),Spring,10.075999999999999,88.27566666666667
+Pittsburgh (West),Summer,22.44,90.40833333333333
+Pittsburgh (West),Winter,-0.4723333333333333,75.94066666666666
+Scranton (Northeast),Fall,10.333666666666666,94.432
+Scranton (Northeast),Spring,7.1273333333333335,95.85733333333333
+Scranton (Northeast),Summer,20.029,126.11766666666668
+Scranton (Northeast),Winter,-3.048,82.045
+State College (Central),Fall,10.81,85.63166666666666
+State College (Central),Spring,8.098,89.05966666666667
+State College (Central),Summer,20.80933333333333,111.02266666666668
+State College (Central),Winter,-2.3973333333333335,76.20266666666666
